@@ -1,2 +1,2 @@
 # Wisata
-Project untuk UKK kelas 12 SMk
+Project CRUD untuk UKK kelas 12 SMK
